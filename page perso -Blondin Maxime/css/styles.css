@@ -1,0 +1,98 @@
+body
+ {
+  background-color: rgb(3, 3, 3);
+  color:rgb(168, 116, 37);
+  text-align: center;
+ }
+
+
+h1
+ { 
+     background-color: rgb(51, 64, 73);
+  text-shadow: 5px 5px 10px rgb(3, 3, 3);
+  font-family: 'Lacquer', sans-serif;
+  font-size: 150px;
+  
+ }
+
+.moi
+ {
+  width: 82em;
+  border: 100px, rgb(51, 64, 73);
+  box-shadow: 8px 8px 5px rgb(51, 64, 73);
+  padding: 2px 2px;
+ }
+
+ span
+ {
+    color: red;
+ }
+
+h2
+ {
+     background-color: rgb(51, 64, 73);
+  color: rgb(168, 116, 37);
+  text-shadow: 2px 2px 2px rgb(3, 3, 3);
+  font-family:'Lacquer', sans-serif;    
+ }
+
+h3
+ {
+     color: rgb(168, 116, 37);
+  text-shadow: 1px 1px 1px rgb(51, 64, 73);
+  font-size: 30px;
+ }
+
+h4
+ {
+  text-shadow: 1px 1px 1px rgb(51, 64, 73);
+  font-size: 20px;
+ }
+
+p
+ {
+  font-family:'Lacquer', sans-serif;
+  font-size: x-large;
+ }
+
+ul > li
+ {
+  font-size: 25px;
+  text-shadow: 1px 1px rgb(51, 64, 73);
+  list-style-position: inside;
+ }
+
+#p1
+ {
+  color: rgb(3, 3, 3);
+  background-color:  rgb(168, 116, 37);
+  text-shadow: 1px 1px 1px rgb(51, 64, 73);
+  font-size: 20px;
+ }
+#p2
+ {
+  color: rgb(3, 3, 3);
+  background-color:  rgb(168, 116, 37);
+  text-shadow: 1px 1px 1px rgb(51, 64, 73);
+  font-size: 20px; 
+ }  
+
+.facebook
+ {
+  background-color: rgb(51, 64, 73);
+ }
+
+ .twitter
+ {
+  background-color:   rgb(168, 116, 37); 
+  
+ }
+
+ .mb
+ {
+    text-shadow: 5px 5px 5px rgb(95, 117, 133);
+ }
+
+
+
+
